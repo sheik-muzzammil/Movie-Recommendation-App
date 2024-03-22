@@ -104,4 +104,8 @@ if selected == "Harvest":
 
 
 if selected =="About":
-    st.write("End")
+    st.write(" ")
+    st.write(" ")
+    st.markdown("### :red[Movie Recommendation System:] ")
+
+    st.write("**:violet[My Project GitHub link - https://github.com/sheik-muzzammil/Movie-Recommendation-App]** ⬇️")
